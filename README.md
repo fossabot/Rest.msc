@@ -1,4 +1,5 @@
 [![Build status](https://ci.appveyor.com/api/projects/status/sx1sg65qx7p42w28?svg=true)](https://ci.appveyor.com/project/fakoua/rest-msc)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Ffakoua%2FRest.msc.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Ffakoua%2FRest.msc?ref=badge_shield)
 
 # Rest.msc
 Restful API management for Windows Services. Access and control windows services using http commands.
@@ -42,3 +43,6 @@ ENTRYPOINT ["C:\\app\\Rest.msc.exe"]
 ## License
 
 This project is licensed under the MIT License.
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Ffakoua%2FRest.msc.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Ffakoua%2FRest.msc?ref=badge_large)
